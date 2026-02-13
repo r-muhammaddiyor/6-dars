@@ -1,5 +1,5 @@
 import { useTranslation } from "react-i18next";
-import Header from "./components/header";
+import Header from "./components/Header";
 import BackendSection1 from "./components/BackendSection1";
 import BackendSection2 from "./components/BackendSection2";
 import Brining from "./components/Brining";
